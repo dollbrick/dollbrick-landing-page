@@ -1,3 +1,5 @@
+SOURCE OF TRUTH IS NOW https://github.com/zymbaluk/dollbrick-landing-page
+
 # Dollbrick Improv Collective
 
 https://dollbrick.com
