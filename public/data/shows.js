@@ -90,6 +90,14 @@ const shows = [
         image: './assets/images/vermillion-lfw-02222026.jpg',
         tickets: 'https://www.eventbrite.com/e/improv-vermillion-featuring-late-for-work-improv-dollbrick-tickets-1980763725624?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl'
     },
+    {
+        ...vermillion,
+        id: 'vermillion-20260823',
+        description: "FREE SHOW! Come see My Two Wives and Dollbrick perform improv at Vermillion - it's gonna be a night of laughs and good vibes!",
+        date: getDate(2026, 'Aug', 23, 7, 0, 'PM'),
+        image: './assets/images/vermillion-mtw-08232026.jpg',
+        tickets: 'https://www.eventbrite.com/e/improv-vermillion-dollbrick-my-two-wives-tickets-1996477392625'
+    },
     // Past
     {
         id: 'forced-perspective-20250926',
